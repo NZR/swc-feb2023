@@ -33,3 +33,4 @@ head -n 3 sorted_legnth.txt
 tail -n 1 sorted_legnth.txt 
 sort -n lengths.txt | head -n 1 
 sort -n lengths.txt | head -n 5 | tail -n 1 
+cat sorted_legnth.txt 
