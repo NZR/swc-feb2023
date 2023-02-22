@@ -121,3 +121,7 @@ ls
 cat haiku.txt 
 cd /c/Workspace/
 ls
+cd TPM/
+ls
+cd MSC\ Process\ rework/
+ls
