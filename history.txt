@@ -13,3 +13,20 @@ wc -l *.pdb > lengths.txt
 cat histort
 cat history
 cat ~/Desktop/swc-feb2023/history.txt 
+check if everything works
+ls
+history
+echo Want I want
+echo what I want > lengths.txt
+cat lengths.txt 
+wc -l *.pdb >> lengths.txt 
+cat lengths.txt 
+wc -l *.pdb > lengths.txt 
+sort -n lengths.txt 
+sort lengths.txt 
+sort --help
+ls
+sort -n lengths.txt > sorted_legnth.txt
+ls
+head sorted_legnth.txt 
+head -n 3 sorted_legnth.txt 
