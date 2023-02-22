@@ -15,3 +15,6 @@ pwd
 ls
 blabla
 ls
+nano arg_var.py
+winpty python arg_var.py arg0 arg1 arg2
+winpty python arg_var.py arg0 arg1 arg2
