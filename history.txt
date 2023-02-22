@@ -12,3 +12,4 @@ cat lengths.txt
 wc -l *.pdb > lengths.txt 
 cat histort
 cat history
+cat ~/Desktop/swc-feb2023/history.txt 
