@@ -118,3 +118,4 @@ grep -r "is not" *
 ls
 cd writing/
 ls
+cat haiku.txt 
