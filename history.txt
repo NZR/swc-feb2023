@@ -1,1 +1,14 @@
 new begining
+ls thesis/
+wc 
+cd exercise-data/proteins/
+ls
+wc cubane.pdb 
+wc *.pdb
+wc -l *.pdb
+wc -l *.pdb > lengths.txt
+ls
+cat lengths.txt 
+wc -l *.pdb > lengths.txt 
+cat histort
+cat history
