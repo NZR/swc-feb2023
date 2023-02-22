@@ -1,0 +1,12 @@
+cd shell-lesson-data/
+pip install gitautopush
+git clone https://github.com/NZR/swc-feb2023.git
+gitautopush swc-feb2023/
+clear
+ls
+rm -rf swc-feb2023/
+cd ..
+git clone https://github.com/NZR/swc-feb2023.git
+export PROMPT_COMMAND="history -a;$PROMPT_COMMAND"
+l
+ls
