@@ -125,3 +125,4 @@ cd TPM/
 ls
 cd MSC\ Process\ rework/
 ls
+cat 'Data Management for MSc Thesis project.docx' 
