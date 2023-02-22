@@ -119,3 +119,5 @@ ls
 cd writing/
 ls
 cat haiku.txt 
+cd /c/Workspace/
+ls
