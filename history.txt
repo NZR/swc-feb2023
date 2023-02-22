@@ -30,3 +30,4 @@ sort -n lengths.txt > sorted_legnth.txt
 ls
 head sorted_legnth.txt 
 head -n 3 sorted_legnth.txt 
+tail -n 1 sorted_legnth.txt 
