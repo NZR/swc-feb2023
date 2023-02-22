@@ -10,3 +10,6 @@ git clone https://github.com/NZR/swc-feb2023.git
 export PROMPT_COMMAND="history -a;$PROMPT_COMMAND"
 l
 ls
+cd shell-lesson-data/
+pwd
+ls
