@@ -34,3 +34,87 @@ tail -n 1 sorted_legnth.txt
 sort -n lengths.txt | head -n 1 
 sort -n lengths.txt | head -n 5 | tail -n 1 
 cat sorted_legnth.txt 
+wc -l *.pdb | sort -n | head -n 5 | tail -n 1
+nano middle.sh
+sh middle.sh 
+cd ..
+sh proteins/middle.sh 
+cd proteins/
+ls
+nano middle.sh 
+sh middle.sh 
+cat octane.pdb 
+cd ..
+sh proteins/middle.sh 
+cat proteins/middle.sh 
+cd proteins/
+nano middle.sh 
+sh middle.sh octane.pdb
+sh middle.sh pentane.pdb 
+nano middle.sh 
+sh middle.sh pentane.pdb 
+nano middle.sh 
+sh middle.sh pentane.pdb 
+sh middle.sh pentane.pdb  asd asd asd asd asd asd asd asd qwe 
+cat middle.sh 
+nano middle.sh 
+cd ../creatures/
+ls
+head -n 5 basilisk.dat 
+head -n 5 basilisk.dat minotaur.dat unicorn.dat 
+head -n 5 basilisk.dat minotaur.dat unicorn.dat 
+head -n 5 *.dat 
+nano creatures.sh
+sh creatures.sh 
+nano creatures.sh 
+for filename in basilisk.dat minotaur.dat ; do echo $filename; done
+for filename in basilisk.dat minotaur.dat ; do echo $filename; done
+cd ../proteins/
+ls
+nano expansion.sh
+sh expansion.sh octane.pdb propane.pdb cubane.pdb 
+cat expansion.sh 
+cat expansion.sh *.pdb
+sh expansion.sh *.pdb
+sh expansion.sh "*.pdb"
+sh expansion.sh '*.pdb'
+nano expansion.sh 
+sh expansion.sh 
+nano expansion.sh 
+sh expansion.sh '*.pdb'
+nano expansion.sh 
+sh expansion.sh '*.pdb'
+sh expansion.sh octane.pdb 
+sh expansion.sh '*.pdb'
+sh expansion.sh *.pdb
+nano expansion.sh 
+sh expansion.sh *.pdb
+sh expansion.sh '*.pdb'
+nano expansion.sh 
+sh expansion.sh '*.pdb'
+nano expansion.sh 
+cd ..
+ls
+cd writing/
+ls
+nano create_directories.sh
+ls
+nano create_directories.sh
+sh create_directories.sh 
+ls
+rmdir tot*
+ls
+nano create_directories.sh 
+ls
+grep not haiku.txt 
+grep "is not" haiku.txt 
+grep -n "is not" haiku.txt 
+head -n 15 haiku.txt | tail -n 5 
+grep --help
+grep "is not" *
+cd ..
+grep "is not" *
+grep -r "is not" *
+ls
+cd writing/
+ls
